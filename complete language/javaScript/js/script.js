@@ -8,9 +8,9 @@ console.log('alamin');
 / exponetial **
 */
 //arithmaticoperator
-a = 10;
-b = 4;
-c = a + b;
+let a = 10;
+let b = 4;
+let c = a + b;
 console.log(c);
 console.log("a+b", a + b);
 console.log('a-b', a - b);
@@ -43,4 +43,7 @@ console.log("a !=b", a != b);
 console.log("a >b", a > b);
 console.log("a >=b", a >= b);
 console.log("a <b", a < b);
-console.log('a <=b', a <= b);
+console.log('a <=b', a <= b); //logical operators
+let cond1 = a > b;
+let cond2 = a === 10;
+console.log('cond1 && cond2 =', cond1 && cond2);
