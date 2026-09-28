@@ -46,3 +46,13 @@ console.log(typeof xY);
 let symbol1 = Symbol("hello");
 console.log(symbol1);
 console.log(typeof symbol1);
+
+const profile = {
+    name: "alamin",
+    isFollow: true,
+
+
+};
+
+console.log(profile);
+typeof profile;
