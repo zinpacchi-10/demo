@@ -14,10 +14,9 @@ console.log('loop has ended');
 //infinite loop
 /*
 for (let i = 1; i >= 0; i++) {
-    console.log("i =", i);
+     console.log("i =", i);
 }
 */
-
 //while loop
 let i = 1;
 while (i <= 33) {
@@ -67,3 +66,10 @@ for (let num = 0; num <= 100; num++) {
     }
 }
 //q2
+let gameNum = 26;
+let userNum = prompt("uess the number:");
+while (userNum != gameNum) {
+    userNum = prompt("you enter wrong Numbertry again");
+}
+console.log("congratualtions you enter the write number");
+//
