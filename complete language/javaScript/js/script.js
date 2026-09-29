@@ -50,6 +50,8 @@ let cond1 = a > b;
 let cond2 = a === 10;
 console.log('cond1 && cond2 =', cond1 && cond2); //conditional
 //conditional  statements
+//if condition
+/*
 let age = 18;
 let mode = 'dark';
 let color;
@@ -60,3 +62,11 @@ if (mode === 'light') {
     color = 'white';
 }
 cpnsole.log(color);
+*/
+//if-else condition
+let numbe = 10;
+if (numbe % 2 === 0) {
+    console.log("even");
+} else {
+    console.log("odd");
+}
