@@ -103,7 +103,7 @@ age >= 26 ? console.log('adult') : console.log('not adult');
 /*
 let name = prompt('hellow');
 console.log(name);*/
-let number = prompt("Enter a Number:");
+//let number = prompt("Enter a Number:");
 if (number % 5 === 0) {
     console.log(number, " is multple of 5");
 } else {
@@ -111,7 +111,7 @@ if (number % 5 === 0) {
 }
 
 //q2
-let num = prompt("Enter your result:");
+//let num = prompt("Enter your result:");
 if (num >= 80 && num <= 100) {
     console.log('Your grade is A');
 } else if (num >= 70 && num <= 79) {
@@ -123,3 +123,5 @@ if (num >= 80 && num <= 100) {
 } else {
     console.log('Your grade is F ');
 }
+
+//
