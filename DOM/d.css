@@ -1,0 +1,23 @@
+    h1 {
+        color: blue;
+        text-decoration: 'line-through';
+    }
+    
+    body {
+        background-color: #ea427a;
+        font-family: Arial, sans-serif;
+    }
+    
+    h4 {
+        background-color: #e14c4c;
+        font-family: Arial, sans-serif;
+    }
+    
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
