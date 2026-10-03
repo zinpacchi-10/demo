@@ -4,3 +4,18 @@ body {
     margin: 20px;
     background-color: #13d192;
 }
+
+h2 {
+    color: #ce2c2c;
+    margin-bottom: 10px;
+    background-color: #1a0404;
+    text-align: top;
+}
+
+.box {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
