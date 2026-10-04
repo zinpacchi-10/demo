@@ -1,0 +1,13 @@
+.paragraph {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    background-color: rgb(206, 149, 15);
+}
+
+.newClass {
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    background-color: rgb(32, 136, 227);
+}
