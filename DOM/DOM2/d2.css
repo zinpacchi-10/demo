@@ -1,0 +1,15 @@
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: 2px solid blue;
+}
+
+.paragraph {
+    font-size: 16px;
+    color: darkblue;
+    margin: 10px 0;
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 5px;
+}
